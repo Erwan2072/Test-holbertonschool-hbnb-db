@@ -1,5 +1,7 @@
 flask
 flask-cors
 gunicorn
-sqlalchemy
-flask-sqlalchemy
+SQLAlchemy
+Flask-SQLAlchemy
+Flask-Bcrypt
+Flask-JWT-Extended
